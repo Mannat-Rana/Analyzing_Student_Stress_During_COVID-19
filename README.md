@@ -1,1 +1,1 @@
-# Analyzing_Student_Stress_During_COVID-19
+This project was part of my thesis. I conducted research to measure student stress factors and find behaviors and demographics that were affected differently by the pandemic.
